@@ -1,0 +1,43 @@
+#Nav-bar
+{
+    position: sticky;
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Flex-item
+{
+    background-color: transparent;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    color: white;
+}
+
+#img-tesla
+{
+    height: 100;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: rgb(72, 72, 72);
+}
+
+a:visited
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:link
+{
+    color: black;
+}

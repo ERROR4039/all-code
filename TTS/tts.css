@@ -1,0 +1,26 @@
+.Outer-div
+{
+  background-color: white;
+}
+
+a:link
+{
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.Nav-bar
+{
+    background-color: black;
+    width: 1850px;
+}
+
+h3
+{
+  color: white;
+}
